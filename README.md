@@ -27,4 +27,4 @@ The goal is a tool that just works — no clutter, no bloat.
 ## How to use it
 1. Download the installation package using the link provided.
 2. Unzip the contents into your target installation folder.
-3. Execute the main program file to begin using the software.             
+3. Execute the main program file to begin using the software.              
